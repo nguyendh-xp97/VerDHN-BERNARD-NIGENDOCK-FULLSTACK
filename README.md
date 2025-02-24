@@ -1,6 +1,6 @@
-Project: [FullstackJS] BerNard Ningen Dock
+Project: [FullstackJS] BerNard Ningen Dock landing page
 
-Time: 1/12/2024 – 15/12/2024
+Time: 1/2/2025 – 15/2/2025
 
 Description:
 
