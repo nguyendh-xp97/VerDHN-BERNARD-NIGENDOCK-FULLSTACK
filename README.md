@@ -33,15 +33,13 @@ Technologies used (framework,library,..): to optimize page loading speed, the co
 + BackEnd: ExpressJS, NodeJS, MongoDB, Restful API,NPM, GIT-GITHUB,…
 + UI/UX: Figma (AutoLayout, Component, Layout Gird, Design-system), Photoshop,...
 
-Link:
-
-Figma: https://www.figma.com/design/7CYeKpw4oRvxbwqTXm1ZZq/%5BLANDING-PAGE%5D-BerNard-NigenDock-UI-Design?node-id=0-1&t=dSRp19mBAx3WiA8v-1
-Front-end: https://ver-dhn-ningen-dock-bernard-fullstacks-4e4h.vercel.app/
-Back-end: https://ver-dhn-ningen-dock-bernard-fullstacks.vercel.app/
-
-
 Roles in the Project:
 + UI/UX Designer: Designs the interface on Figma and optimizes the design following UI/UX principles.
 + FrontEnd Developer: Develops an SEO-friendly interface while ensuring UI/UX principles and responsive design.
 + BackEnd Developer: Develops APIs to store customer form data in the database and return results to the FrontEnd.
 
+Link:
+
++ Figma: https://www.figma.com/design/7CYeKpw4oRvxbwqTXm1ZZq/%5BLANDING-PAGE%5D-BerNard-NigenDock-UI-Design?node-id=0-1&t=dSRp19mBAx3WiA8v-1
++ Front-end: https://ver-dhn-ningen-dock-bernard-fullstacks-4e4h.vercel.app/
++ Back-end: https://ver-dhn-ningen-dock-bernard-fullstacks.vercel.app/
