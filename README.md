@@ -14,7 +14,7 @@ Overview:
 This design helps BerNard Healthcare build its brand, establish trust, and effectively increase customer conversion rates.
 
 
-User flow: This landing page website consists of two parts: FrontEnd and BackEnd.
+Flow: This landing page website consists of two parts: FrontEnd and BackEnd.
 
 + FrontEnd includes:
  - Building a responsive user interface optimized for all devices.
