@@ -1,0 +1,30 @@
+
+BERNARD HEALTHCARE NINGEN DOCK LANDING PAGE
+Sản phẩm web Landing Page
+
+Chào mừng Anh/Chị đến với bản thiết kế và mã nguồn của Landing Page dành cho sản phẩm Ningen Dock của BerNard Healthcare. Đây là một giao diện  chuyên nghiệp, hiện đại và thân thiện với người dùng, được tối ưu hóa theo yêu cầu của công ty BerNard Healthcare dành riêng cho sản phẩm chăm sóc sức khỏe Ningen Dock của công ty nhằm tạo ấn tượng mạnh mẽ với khách hàng ngay từ cái nhìn đầu tiên.
+
+THIẾT KẾ
+-	Thiết kế ấn tượng, đúng kỹ thuật (AutoLayout, Component, Layout Gird, Design-system)
+
+FRONTEND
+-	Tối ưu tốc  độ tải trang
+-	Tối ưu SEO (theo yêu cầu của công ty nên dùng công nghệ tối ưu tốc độ tải)
+-	Đầy đủ tính năng
+-	Responsive với breakpoint Bootstrap và chi tiết với các @media query khác
+
+XXL
+XL
+LG
+MD
+SM
+XS
+-	Form API
+
+BACKEND
+-	Lưu trữ vào MongoDB
+-	Giới hạn số lần gửi form để ngăn spam
+-	Kiểm tra xem email hoặc số điện thoại đã tồn tại chưa
+-	Gửi email cảm ơn
+
+
