@@ -23,6 +23,8 @@ Flow: This landing page website consists of two parts: FrontEnd and BackEnd.
  - Receiving responses from the backend and displaying them on the interface.
 + BackEnd includes:
  - Handling requests from the FrontEnd by creating APIs to store and retrieve user data from the database.
+ - Limit the number of form submissions to prevent spam.
+ - Check if the email or phone number already exists.
  - Sending thank-you emails to customers who submit the form.
  - Notifying registered customers about promotional programs, etc
 
